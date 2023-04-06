@@ -3,8 +3,11 @@ body{
 }
 h1{
     color:black;
-    font-size:48px;
+    font-size:64px;
     text-align: center;
+    font-weight:bold;
+    margin-left:10%;
+    margin-right:10%;
 }
 p{
     color:black;
