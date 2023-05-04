@@ -19,8 +19,9 @@ ul.navbar{
     position: relative;
     display:inline-block;
 }
-div{
+div.navbar{
     text-align: center;
+    background-color: lightblue;
 }
 iframe{
     align-content: center;
