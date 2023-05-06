@@ -13,6 +13,7 @@ li.navbar{
     display: inline;
     margin: 0px 10px;
     font-size: 24px;
+    color: black;
 }
 ul.navbar{
     text-align:center;
