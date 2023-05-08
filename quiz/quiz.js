@@ -16,6 +16,41 @@ let questions= [
     choices: ['Museums', 'Academia', 'Publishers', 'Nonprofits', 'Other'],
     correctAnswer: 3,
     }
+    {
+    question: 'Q4',
+    choices: ['A', 'B'],
+    correctAnswer: 0,
+    }
+    {
+    question: 'Q5',
+    choices: ['1', '2', '3', '4'],
+    correctAnswer: 2,
+    }
+    {
+    question: 'Q6',
+    choices: ['1', '2', '3', '4'],
+    correctAnswer: 3,
+    }
+    {
+    question: 'Q7',
+    choices: ['1', '2', '3', '4'],
+    correctAnswer: 2,
+    }
+    {
+    question: 'Q8',
+    choices: ['1', '2', '3'],
+    correctAnswer: 1,
+    }
+    {
+    question: 'Q9',
+    choices: ['1', '2'],
+    correctAnswer: 0,
+    }
+    {
+    question: 'Q10',
+    choices: ['1', '2', '3', '4'],
+    correctAnswer: 2,
+    }
     ];
     
 

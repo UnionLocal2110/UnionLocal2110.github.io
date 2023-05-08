@@ -13,7 +13,6 @@ li.navbar{
     display: inline;
     margin: 0px 10px;
     font-size: 24px;
-    color: black;
 }
 ul.navbar{
     text-align:center;
@@ -44,4 +43,12 @@ p.printro{
 }
 #storyboard{
     align-content: center;
+}
+p.biblio{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+h2.biblio{
+    text-align: center;
 }
