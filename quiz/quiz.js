@@ -2,54 +2,54 @@
 
 let questions= [
     {
-    question: 'Q1',
-    choices: ['one', 'two', 'three', 'four'],
+    question: 'Which museum is not unionized with Local 2110?',
+    choices: ['Bronx Museum of the Arts', 'Brooklyn Museum', 'The New Museum of Contemporary Art', 'The Museum of Modern Art'],
     correctAnswer: 1,
     },
     {
-    question: 'Q2',
-    choices: ['A', 'B', 'C'],
+    question: 'What is the top article included in the union agreements of UAW Local 2110 workplaces?',
+    choices: ['Effective dates', 'Health and safety', 'Hours and overtime'],
     correctAnswer:0,
     },
     {
-    question: 'Q3',
-    choices: ['Museums', 'Academia', 'Publishers', 'Nonprofits', 'Other'],
+    question: 'What is not true of re-negotiating a union agreement after a set term has expired?',
+    choices: ['A new contract is written or built upon', 'Amendments and updates are made to previous articles', 'Workers have to include all articles from the previous contract or they will not be carried into the next agreement', 'Workers re-negotiate with employers and have the option to strike if they feel necessary'],
+    correctAnswer: 2,
+    }
+    {
+    question: 'What year did the New Museum of Contemporary Art strike its first union agreement with Local 2110?',
+    choices: ['2010', '2003', '2021', '2019'],
     correctAnswer: 3,
     }
     {
-    question: 'Q4',
-    choices: ['A', 'B'],
+    question: 'True or False: 74% of UAW Local 2110’s workplaces unionized during the pandemic.',
+    choices: ['True', 'False'],
     correctAnswer: 0,
     }
     {
-    question: 'Q5',
-    choices: ['1', '2', '3', '4'],
-    correctAnswer: 2,
+    question: 'What were the top reported wants of union members during the pandemic versus after?',
+    choices: ['During the pandemic: Recognition, Discipline & Discharge, and Management Rights; After the pandemic: Fair Wages, Work From Home Arrangement, and Education, Training, & Professional Development', 'During the pandemic: Recognition, Education, Training, & Professional Development, and Management Rights; After the pandemic: Fair Wages, Work From Home Arrangement, and Discipline & Discharge', 'During the pandemic: Fair Wages, Work From Home Arrangement, and Discipline & Discharge; After the pandemic: Recognition, Education, Training, & Professional Development, and Management Rights'],
+    correctAnswer: 0,
     }
     {
-    question: 'Q6',
-    choices: ['1', '2', '3', '4'],
-    correctAnswer: 3,
-    }
-    {
-    question: 'Q7',
-    choices: ['1', '2', '3', '4'],
-    correctAnswer: 2,
-    }
-    {
-    question: 'Q8',
-    choices: ['1', '2', '3'],
+    question: 'True or False: For UAW Local 2110 organizers, business suffered during the pandemic.',
+    choices: ['True', 'False'],
     correctAnswer: 1,
     }
     {
-    question: 'Q9',
-    choices: ['1', '2'],
-    correctAnswer: 0,
+    question: 'When arts industry employment hit an all-time decline in April of 2020, how much had employment decreased from the month before?',
+    choices: ['10%', '30%', '50%', '70%'],
+    correctAnswer: 2,
     }
     {
-    question: 'Q10',
-    choices: ['1', '2', '3', '4'],
-    correctAnswer: 2,
+    question: 'Which of the following was not included in the New Museum of Contemporary Art’s agreement with UAW Local 2110?',
+    choices: [' A minimum annual wage raise to $51,000', 'Reduced employee healthcare contributions', 'A disincentive to use outside contractors as art handlers and registrars', 'Implementation of a 4-day work week'],
+    correctAnswer: 3,
+    }
+    {
+    question: 'What was the impetus for Museum of Modern Art (MoMA) staff to first begin confronting museum leadership about unjust treatment and contracts?',
+    choices: ['The building’s water had been on and off for months', 'Contracts expired without acknowledgment or discussion of renewals', 'David Rockefeller, Jr, chairman of the MoMA had been rewarding himself a bonus of multi-million dollars', 'Workers wanted support with new work-from-home capabilities'],
+    correctAnswer: 1,
     }
     ];
     
